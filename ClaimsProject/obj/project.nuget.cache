@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ovvJJJLg9jBnsAdpKs1HwB+o25RMM714hsUMsmVGaCp3m+lHz1vJSGS+gNjW36U4WRvOWFctJx9zDhFvbOaWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raj.Somepall\\Documents\\WebAPI-SampleProject\\ClaimsProject\\ClaimsProject\\ClaimsProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raj.Somepall\\.nuget\\packages\\csvhelper\\26.0.0\\csvhelper.26.0.0.nupkg.sha512",
+    "C:\\Users\\Raj.Somepall\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
